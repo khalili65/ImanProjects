@@ -109,6 +109,13 @@ All projects are designed to:
 - Text editor or IDE
 - Terminal/command line access
 
+### 🤖 AI-Assisted Development Workflow
+**NEW**: Follow our comprehensive [Cursor AI Development Guide](./CURSOR_AI_DEVELOPMENT_GUIDE.md) to learn the complete workflow of building applications using AI assistance. This guide teaches you how to:
+- Plan projects strategically with ChatGPT O3
+- Implement efficiently with Cursor AI
+- Document and learn concepts effectively
+- Follow industry best practices
+
 ### Quick Setup
 ```bash
 # Clone the repository
@@ -121,8 +128,6 @@ cd ProjectOne  # or ProjectTwo, ProjectThree
 # Follow the project-specific README
 ```
 
-
-
 ## 🤝 Contributing
 
 ### For Students
@@ -131,9 +136,12 @@ cd ProjectOne  # or ProjectTwo, ProjectThree
 - Share your implementations and improvements
 - Ask questions and seek feedback
 
-
-
 ## 📚 Additional Resources
+
+### AI-Assisted Development
+- **[Cursor AI Development Guide](./CURSOR_AI_DEVELOPMENT_GUIDE.md)**: Complete workflow for AI-assisted application development
+- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Cursor AI Best Practices](https://docs.cursor.com/)
 
 ### Documentation
 - [FastAPI Official Docs](https://fastapi.tiangolo.com/)
