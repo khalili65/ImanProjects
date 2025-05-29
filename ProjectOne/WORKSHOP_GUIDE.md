@@ -458,21 +458,5 @@ async def practice_recitation(
 - **Accessibility features** for visually impaired users
 - **Multi-language support** for non-Arabic speakers
 
-## Resources and References
-
-### Documentation
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [HuggingFace Transformers](https://huggingface.co/docs/transformers/)
-- [Whisper Model Documentation](https://huggingface.co/openai/whisper-base)
-
-### Arabic NLP Resources
-- [Arabic Text Processing Libraries](https://github.com/aub-mind/arabert)
-- [Quranic Arabic Datasets](https://github.com/Tarteel-io/tarteel-ml)
-
-### Audio Processing
-- [SoundDevice Documentation](https://python-sounddevice.readthedocs.io/)
-- [Audio Processing Best Practices](https://pytorch.org/audio/stable/tutorials/)
-
----
 
 **Remember:** This workshop is designed to be interactive. At each step, experiment with the code, ask questions, and try to understand not just how things work, but why they work that way. Use Cursor AI to help you explore, debug, and improve your implementation! 
